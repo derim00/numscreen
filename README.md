@@ -17,8 +17,9 @@ même jouer, à Roblox par exemple.
 
 NumScreen fait partie de **[NumSocial](https://github.com/derim00/numsocial)** :
 le même firmware contient aussi **[NumTube](https://github.com/derim00/numtube)**
-(YouTube) et **[NumChat](https://github.com/derim00/numchat)** (Snapchat), et
-une seule appli, **NumSocial**, installe celles que tu choisis.
+(YouTube), **[NumChat](https://github.com/derim00/numchat)** (Snapchat) et
+**[NumBlocks](https://github.com/derim00/numblocks-multiplayer)** (Minecraft en multijoueur), et une seule appli,
+**NumSocial**, installe celles que tu choisis.
 
 ## Sommaire
 
