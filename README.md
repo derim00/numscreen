@@ -6,7 +6,7 @@ ou à un PC Windows : tu vois l'écran, tu bouges la souris avec les flèches, t
 cliques avec `OK` et tu tapes avec les touches de la calculatrice. Et tu peux
 même jouer, à Roblox par exemple.
 
-- Écran de l'ordinateur en 320×200, environ 15 images/s, avec le curseur
+- Écran de l'ordinateur en 320×200, à environ 15 images/s, avec le curseur
 - Souris aux flèches : un appui court pour la précision, maintenue elle accélère
 - Clic, double clic, glisser, clic droit, molette
 - Tout le clavier : lettres, chiffres, majuscules, symboles, Entrée, Échap…
